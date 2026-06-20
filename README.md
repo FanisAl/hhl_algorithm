@@ -52,7 +52,7 @@ demonstration is well beyond reliable execution on current NISQ hardware.
 Requires **Python 3.11+**.
 
 ```bash
-git clone https://github.com/<your-username>/hhl-algorithm.git
+git clone https://github.com/<FanisAl>/hhl-algorithm.git
 cd hhl-algorithm
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
