@@ -1,0 +1,12 @@
+# Core dependencies for the HHL quantum linear-solver demonstration.
+# Pinned to the versions the code was developed and verified against.
+# Qiskit >= 1.0 / 2.x API (modern primitives, qiskit_aer split-out package).
+
+qiskit==2.3.1
+qiskit-aer==0.17.2
+numpy==2.2.6
+scipy==1.17.1
+tabulate==0.10.0
+
+# Test dependency (optional for running the demo, required for `pytest`):
+pytest==9.0.3
